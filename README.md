@@ -10,7 +10,7 @@
 
 ## Introduction
 
-This project aims to make you discover cyber security in the field of the WWW.
+This project aims to make you discover cyber security in the field of the 'www'.
 You will discover OWASP, which simply is the largest cyber security project to this
 day. You will also find out what many frameworks do for you, automatically and transparently
 
@@ -20,19 +20,24 @@ For more detailed information, look at the [**subject of this project**](https:/
 
 -   [00_hidden_input](00_hidden_input)
 -   [01_sign_in](01_sign_in)
--   [02\_](02_)
+-   [02_unencrypted_cookie](02_unencrypted_cookie)
 -   [03_whatever_admin_pswd](03_whatever_admin_pswd)
--   [04\_](04_)
--   [05\_](05_)
+-   [04_scrapping](04_scrapping)
+-   [05_survey](05_survey)
 -   [06_file_upload](06_file_upload)
--   [07\_](07_)
+-   [07_redirect](07_redirect)
 -   [08_members_sql_injection](08_members_sql_injection)
--   [09\_](09_)
--   [10\_](10_)
+-   [09_user_agent](09_user_agent)
+-   [10_directory_traversal](10_directory_traversal)
 -   [11_search_image_injection](11_search_image_injection)
--   [12\_](12_)
+-   [12_xss](12_xss)
 -   [13_nsa_picture_xss](13_nsa_picture_xss)
 
 ## Sources
 
 -   [OWASP Top 10](https://owasp.org/Top10/)
+
+## Authors
+
+-   [Fabrizio Manetti](https://github.com/manettifabrizio)
+-   [Julien Richard](https://github.com/jurichar)

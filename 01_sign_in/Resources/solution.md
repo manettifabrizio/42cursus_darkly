@@ -4,6 +4,10 @@
 
 -   ### Option 1: Bruteforce using Burp Suite
 
+    By using burp suit we can send an intruder to the form and loop with 1000 most common passwords on the password input. 
+
+After few seconds we can see the password is shadow and we get the flag.
+
 -   ### Option 2: SQL Injection in the Members Area
 
     In the members area we've noticed that the input was vulnerable to SQL Injection. Using this query we got all the tables with the columns available on the db:
@@ -23,6 +27,9 @@
 ## How to prevent
 
 -   ### Option 1: Bruteforce using Burp Suite
+
+    To prevent this type of attack your website can have a stronggest password policy like a special char, minimum length, capitalize, ...
+    You can also add a maximum try of a password and after few tries, the IP is blocked.
 
 -   ### Option 2: SQL Injection in the Members Area
     
